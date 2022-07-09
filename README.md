@@ -8,5 +8,5 @@ I'm a 3rd grade student looking for a job. My preferrable languages are **JS, C#
 **Discord**: Aksuma#1477\
 **VK**: [@aksuma](https://vk.com/aksuma)\
 **E-Mail**: [aip@aipserver.ru](mailto:aip@aipserver.ru)\
-My personal website (Russian): [aksuma.me](https://aksuma.me) or [aipserver.ru](https://aipserver.ru)\
+**My personal website (Russian)**: [aksuma.me](https://aksuma.me) or [aipserver.ru](https://aipserver.ru)\
 <img align="right" alt="Profile views" src="https://komarev.com/ghpvc/?username=AipNooBest&style=flat" />
