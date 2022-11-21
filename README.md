@@ -1,5 +1,5 @@
 ## 👋 Hi there!
-I'm a 3rd grade student from RTU MIREA. My preferrable languages are **JS, C#, Python and Java**.
+I'm a 3rd grade student from RTU MIREA. My preferrable languages are **JS, C#, Python and Java**. Currently working full-time at FSUE SPE "Gamma" (ФГУП НПП "Гамма") as an IT Security Specialist.
 
 ## My stats
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=AipNooBest&show_icons=true&theme=dark&count_private=true&include_all_commits=true&title_color=45cc06&icon_color=45cc06)
