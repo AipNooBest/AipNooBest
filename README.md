@@ -1,5 +1,5 @@
 ## 👋 Hi there!
-I'm a 3rd grade student from RTU MIREA. My preferrable languages are **JS, C#, Python and Java**. Currently working full-time at FSUE SPE "Gamma" (ФГУП НПП "Гамма") as an IT Security Specialist.
+I'm a 3rd grade student from RTU MIREA. My preferrable languages are **JS, C#, Python and Java**.
 
 ## My stats
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=AipNooBest&show_icons=true&theme=dark&count_private=true&include_all_commits=true&title_color=45cc06&icon_color=45cc06)
@@ -8,5 +8,5 @@ I'm a 3rd grade student from RTU MIREA. My preferrable languages are **JS, C#, P
 **Discord**: Aksuma#1477\
 **VK**: [@aksuma](https://vk.com/aksuma)\
 **E-Mail**: [aip@aipserver.ru](mailto:aip@aipserver.ru)\
-**My personal website (Russian)**: [aksuma.me](https://aksuma.me) or [aipserver.ru](https://aipserver.ru)\
+**My personal website (Russian)**: [aipserver.ru](https://aipserver.ru)\
 <img align="right" alt="Profile views" src="https://komarev.com/ghpvc/?username=AipNooBest&style=flat" />
