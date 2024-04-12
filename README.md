@@ -7,6 +7,5 @@ I am a 4th year student at RTU MIREA in the Institute of Cyber Security. I am cu
 ## Contacts
 **Discord**: @aksuma\
 **VK**: [@aksuma](https://vk.com/aksuma)\
-**E-Mail**: [aip@aipserver.ru](mailto:aip@aipserver.ru)\
 **My personal website (Russian)**: [aksuma.ru](https://aksuma.ru)\
 <img align="right" alt="Profile views" src="https://komarev.com/ghpvc/?username=AipNooBest&style=flat" />
